@@ -1,6 +1,6 @@
 #  2D Interactive Maker Studio
 
-Many engineers face a problem: It is hard for them to find resources of 3D-printing, CNC, and laser cutting. Those are most important parts manuefacturing technologies in engineering. No one can finish a project without them. I made this app to share on-line stores that I frequently visit. To make the app more beautiful, I add other elements in this app. You can click the link on those machines to visit the stores.
+Many engineers face a problem: It is hard for them to find resources of 3D-printing, CNC, and laser cutting. Thanks to being a Chinese engineering, the supply chain is well developed in China. I summarized several conponents stores and manuefacters here. No one can finish a project without suppliers. I made this app to share on-line stores that I frequently visit. To make the app more beautiful, I add other elements in this app. You can click the link on those machines to visit the stores.
 
 ## Features
 * **Pure CSS Art:** The entire room, including the tools, plants, and machines, is drawn using CSS gradients, shadows, and shapes.
